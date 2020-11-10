@@ -22,7 +22,7 @@ int _stdcall WinMain(
 		msgBox("µã»÷", "ÄãµãÄãmaÄØ");
 	};
 	mainForm.addControl(&btn);
-
+	 
 	//°´Å¥2
 	Button btn2;
 	btn2.setRect({ 300,300,100,80 });
